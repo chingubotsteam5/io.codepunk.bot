@@ -1,4 +1,7 @@
 # The codepunk bot
+
+From YouTube series: https://www.youtube.com/watch?v=L6TR3eUCW3U
+
 An experimental bot for #codepunk using NodeJS and the Microsoft Bot Framework
 
 This bot parses the codepunk.io web site's RSS feed, and then will respond to questions like:
